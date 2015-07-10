@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CollegeCounselling</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_college">College</string>
+    <string name="title_activity_college_list_bba">CollegeListBba</string>
+    <string name="title_activity_collge_list_llb">CollgeListLlb</string>
+
+</resources>
