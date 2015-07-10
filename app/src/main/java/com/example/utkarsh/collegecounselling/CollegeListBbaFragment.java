@@ -24,7 +24,7 @@ public class CollegeListBbaFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        String []collegesbba ={"J.I.M.Ssssd","Trinity School of Managment","Maharaja Surajmal Institute of Management","BLS Institute of management New delhi," ,
+        String []collegesbba ={"J.I.M.S","Trinity School of Managment ","Maharaja Surajmal Institute of Management","BLS Institute of management New delhi," ,
                 "Mount Caramel Business school New delhi","Asian Retail Institute, New delhi","Fairfield Institute of Management and Technology"};
 
         List<String> collegelistbba = new ArrayList<String>(Arrays.asList(collegesbba));
